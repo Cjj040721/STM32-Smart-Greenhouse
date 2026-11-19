@@ -1,0 +1,11 @@
+Debug/
+.settings/
+.verify/
+*.elf
+*.list
+*.map
+*.launch
+.DS_Store
+.env
+.env.*
+!.env.example
